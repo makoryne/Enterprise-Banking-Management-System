@@ -1,4 +1,4 @@
-# 🏦 Banking Project Final
+# 🏦 Enterprise Banking Management System
 
 A full-stack banking management REST API built with **Spring Boot 3.5**, featuring JWT-based authentication, role-based access control, email verification, and scheduled tasks for automated account/transaction management.
 
